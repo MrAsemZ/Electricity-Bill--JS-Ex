@@ -33,4 +33,4 @@ Write a JavaScript function to calculate the monthly electricity bill for a hous
 
      Print a "Detailed Invoice" containing: Total consumption, the cost of each tier, fixed fees, and the final total amount.
 
-**The files: take-1 and take-2 shows my two takes trying to achieve the required based on my understanding**
+**The files: (take-1) and (take-2) shows my two takes trying to achieve the required based on my understanding**
