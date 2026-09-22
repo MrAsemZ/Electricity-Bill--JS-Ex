@@ -1,4 +1,4 @@
-
+//on the basis that the whole bill be prices as the tier price
 
 function calculateElectricityBill (previousReading, currentReading){
     if (currentReading >= previousReading){
@@ -35,4 +35,10 @@ function calculateElectricityBill (previousReading, currentReading){
     }
 }
 
-calculateElectricityBill(550, 2070);
+calculateElectricityBill(300, 900);
+
+//////////////////////////////////
+//     JS Electricity Exercise  //
+//      By Asem Al-Zaghal       //
+//          Take 1              //
+//////////////////////////////////
